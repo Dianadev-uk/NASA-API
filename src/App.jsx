@@ -6,6 +6,8 @@ import Footer from './components/Footer';
 import './App.css'
 
 
+
+
 const App = () => {
   
   const today = new Date(Date.now()).toISOString().slice(0, 10); //ISOS format date
